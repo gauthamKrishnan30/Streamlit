@@ -1,2 +1,3 @@
 # STREAMLIT APP DEVELOPMENT
-##PORTFOLIO
+## PORTFOLIO
+- A page about me which has my internship details, skill sets and contact.
