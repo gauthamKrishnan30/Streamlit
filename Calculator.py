@@ -74,5 +74,5 @@ elif menu == "About":
     st.info("**NOTE**: The first number is Operand 1 and the second number is Operand 2. The result depends on the selected operator and the order of operands")
     st.image("arithmeticoperators.png",width=700)
     st.success("Displays output in green if the output value is a positive number")
-    st.warning("Displays output in brwon if the output value is a negative number")
+    st.warning("Displays output in yellow if the output value is a negative number")
     st.error("Displays output in red if the output value is Zero or Zero division Error")
